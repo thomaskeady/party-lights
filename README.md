@@ -7,7 +7,7 @@
 
 --- Versions ---
 
-  mic_v2 works better than the original mic.ino, perhaps because I didn't calibrate the parameters enough in mic.ino or simply because of Occam's Razor.
+  mic_v2 works better than the original mic.ino, perhaps because I didn't calibrate the parameters enough in mic.ino or simply because of Occam's Razor. Also note that mic.ino only outputs the reading to the serial monitor and a dummy LED, while mic_v2.ino is setup to control a reel of RGB LEDs as shown at http://teacakeady.blogspot.com/2016/02/party-lights.html
 
 
 --- Notes ---
